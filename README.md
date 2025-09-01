@@ -14,7 +14,7 @@ and copy this template repository. Make your new repository is public so that I 
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/math-data-science-course/Project1/blob/main/project1.ipynb)
+https://colab.research.google.com/github/math-data-science-course/Project1/blob/main/project1.ipynb?authuser=1#scrollTo=y_e6lM_NEwwD)
 
 ### Save a copy in GitHub.
 Immediately 
